@@ -6,4 +6,6 @@ public class GitTest {
         System.out.print("git 测试");
     }
 
+    // bug 修复
+
 }
